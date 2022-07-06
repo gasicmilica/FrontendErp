@@ -1,0 +1,27 @@
+
+.ui.dropdown .menu {
+    visibility: visible;
+}
+
+.btn2 {
+    color: black;
+    background-color: rgb(126, 210, 164);
+    border-color: rgb(126, 210, 164);
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.navbar {
+    background-color: rgb(89, 125, 105);
+}
+
+li a:hover{
+    background-color: rgb(126, 210, 164);;
+    color: rgb(89, 125, 105);
+}
+
+.nav-link {
+    color:  rgb(126, 210, 164);
+    font-weight: bold;
+    border-color: rgb(126, 210, 164);
+}
